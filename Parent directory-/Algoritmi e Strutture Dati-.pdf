@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Appunti di Riccardo Azzolini</title>
+	<link rel="stylesheet" href="/directory-listing/fancyindex.css" type="text/css">
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<main>
+	<h1>Appunti di Riccardo Azzolini (@razzolini)</h1>
+	<h6><i>Hosting by Andrea Cavalli (<a href="https://t.me/cavallium/" target="_BLANK">@cavallium</a>)</i></h6>
+	<div class="box box-breadcrumbs">
+		<div class="box-header">
+			<div class="box-header-content">
+				<div id="breadcrumbs" class="breadcrumbs">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="box-content clearfix">
+			<h1 class="title"> Cartella:&nbsp;
+/Algoritmi e Strutture Dati/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="2019-02-18%20Problemi%20emblematici.pdf" title="2019-02-18 Problemi emblematici.pdf">2019-02-18 Problemi emblematici.pdf</a></td><td class="size">28.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-02-19%20Problemi%2C%20risorse%20e%20complessit%C3%A0.pdf" title="2019-02-19 Problemi, risorse e complessità.pdf">2019-02-19 Problemi, risorse e complessità.pdf</a></td><td class="size">41.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-02-20%20Notazioni%20asintotiche.pdf" title="2019-02-20 Notazioni asintotiche.pdf">2019-02-20 Notazioni asintotiche.pdf</a></td><td class="size">38.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-02-25%20Modelli%20di%20calcolo.pdf" title="2019-02-25 Modelli di calcolo.pdf">2019-02-25 Modelli di calcolo.pdf</a></td><td class="size">47.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-02-26%20Complessit%C3%A0%20computazionale.pdf" title="2019-02-26 Complessità computazionale.pdf">2019-02-26 Complessità computazionale.pdf</a></td><td class="size">51.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-02-27%20Modelli%20di%20calcolo.pdf" title="2019-02-27 Modelli di calcolo.pdf">2019-02-27 Modelli di calcolo.pdf</a></td><td class="size">51.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-04%20Linguaggio%20AG.pdf" title="2019-03-04 Linguaggio AG.pdf">2019-03-04 Linguaggio AG.pdf</a></td><td class="size">56.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-05%20Strutture%20dati%20elementari.pdf" title="2019-03-05 Strutture dati elementari.pdf">2019-03-05 Strutture dati elementari.pdf</a></td><td class="size">39.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-06%20Liste.pdf" title="2019-03-06 Liste.pdf">2019-03-06 Liste.pdf</a></td><td class="size">57.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-11_1%20Pila%20e%20coda.pdf" title="2019-03-11_1 Pila e coda.pdf">2019-03-11_1 Pila e coda.pdf</a></td><td class="size">35.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-11_2%20Lista%2C%20pila%20e%20coda%20in%20Java.pdf" title="2019-03-11_2 Lista, pila e coda in Java.pdf">2019-03-11_2 Lista, pila e coda in Java.pdf</a></td><td class="size">37.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-12%20Grafi.pdf" title="2019-03-12 Grafi.pdf">2019-03-12 Grafi.pdf</a></td><td class="size">44.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-13%20Alberi.pdf" title="2019-03-13 Alberi.pdf">2019-03-13 Alberi.pdf</a></td><td class="size">73.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-18%20Visita%20di%20grafi.pdf" title="2019-03-18 Visita di grafi.pdf">2019-03-18 Visita di grafi.pdf</a></td><td class="size">44.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-19%20Rappresentazione%20e%20visita%20di%20alberi.pdf" title="2019-03-19 Rappresentazione e visita di alberi.pdf">2019-03-19 Rappresentazione e visita di alberi.pdf</a></td><td class="size">48.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-20_1%20Visita%20di%20alberi%20binari.pdf" title="2019-03-20_1 Visita di alberi binari.pdf">2019-03-20_1 Visita di alberi binari.pdf</a></td><td class="size">34.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-20_2%20Eliminazione%20della%20ricorsione.pdf" title="2019-03-20_2 Eliminazione della ricorsione.pdf">2019-03-20_2 Eliminazione della ricorsione.pdf</a></td><td class="size">40.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-25%20Visita%20iterativa%20di%20alberi.pdf" title="2019-03-25 Visita iterativa di alberi.pdf">2019-03-25 Visita iterativa di alberi.pdf</a></td><td class="size">49.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-03-26%20Ordinamento.pdf" title="2019-03-26 Ordinamento.pdf">2019-03-26 Ordinamento.pdf</a></td><td class="size">75.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-01%20Insertion%20sort%20e%20bubble%20sort.pdf" title="2019-04-01 Insertion sort e bubble sort.pdf">2019-04-01 Insertion sort e bubble sort.pdf</a></td><td class="size">60.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-02%20Metodi%20di%20ordinamento%20digitali.pdf" title="2019-04-02 Metodi di ordinamento digitali.pdf">2019-04-02 Metodi di ordinamento digitali.pdf</a></td><td class="size">66.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-03%20Divide%20et%20impera%20e%20merge%20sort.pdf" title="2019-04-03 Divide et impera e merge sort.pdf">2019-04-03 Divide et impera e merge sort.pdf</a></td><td class="size">64.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-08%20Quicksort.pdf" title="2019-04-08 Quicksort.pdf">2019-04-08 Quicksort.pdf</a></td><td class="size">56.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-09%20Quicksort.pdf" title="2019-04-09 Quicksort.pdf">2019-04-09 Quicksort.pdf</a></td><td class="size">52.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-10%20Heap%20e%20heapsort.pdf" title="2019-04-10 Heap e heapsort.pdf">2019-04-10 Heap e heapsort.pdf</a></td><td class="size">82.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-15%20Algebre%20eterogenee%20e%20tabelle%20hash.pdf" title="2019-04-15 Algebre eterogenee e tabelle hash.pdf">2019-04-15 Algebre eterogenee e tabelle hash.pdf</a></td><td class="size">36.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-16%20Tabelle%20hash.pdf" title="2019-04-16 Tabelle hash.pdf">2019-04-16 Tabelle hash.pdf</a></td><td class="size">45.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-17_1%20Tabelle%20hash.pdf" title="2019-04-17_1 Tabelle hash.pdf">2019-04-17_1 Tabelle hash.pdf</a></td><td class="size">56.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-17_2%20Alberi%20binari%20di%20ricerca.pdf" title="2019-04-17_2 Alberi binari di ricerca.pdf">2019-04-17_2 Alberi binari di ricerca.pdf</a></td><td class="size">27.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-29%20Alberi%20binari%20di%20ricerca.pdf" title="2019-04-29 Alberi binari di ricerca.pdf">2019-04-29 Alberi binari di ricerca.pdf</a></td><td class="size">56.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-30_1%20Alberi%20binari%20di%20ricerca.pdf" title="2019-04-30_1 Alberi binari di ricerca.pdf">2019-04-30_1 Alberi binari di ricerca.pdf</a></td><td class="size">48.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-04-30_2%20Alberi%202-3.pdf" title="2019-04-30_2 Alberi 2-3.pdf">2019-04-30_2 Alberi 2-3.pdf</a></td><td class="size">45.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-06%20Alberi%202-3.pdf" title="2019-05-06 Alberi 2-3.pdf">2019-05-06 Alberi 2-3.pdf</a></td><td class="size">47.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-07%20Alberi%202-3-4.pdf" title="2019-05-07 Alberi 2-3-4.pdf">2019-05-07 Alberi 2-3-4.pdf</a></td><td class="size">60.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-13%20Alberi%20red-black.pdf" title="2019-05-13 Alberi red-black.pdf">2019-05-13 Alberi red-black.pdf</a></td><td class="size">52.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-14%20Partizioni%20di%20A%20e%20operazioni%20Union%20e%20Find.pdf" title="2019-05-14 Partizioni di A e operazioni Union e Find.pdf">2019-05-14 Partizioni di A e operazioni Union e ..&gt;</a></td><td class="size">75.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-15%20Algoritmi%20greedy.pdf" title="2019-05-15 Algoritmi greedy.pdf">2019-05-15 Algoritmi greedy.pdf</a></td><td class="size">50.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-20%20Algoritmi%20greedy.pdf" title="2019-05-20 Algoritmi greedy.pdf">2019-05-20 Algoritmi greedy.pdf</a></td><td class="size">54.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-21%20Programmazione%20dinamica.pdf" title="2019-05-21 Programmazione dinamica.pdf">2019-05-21 Programmazione dinamica.pdf</a></td><td class="size">55.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-05-22%20Programmazione%20dinamica.pdf" title="2019-05-22 Programmazione dinamica.pdf">2019-05-22 Programmazione dinamica.pdf</a></td><td class="size">46.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+</tbody></table>			</div>
+		</div>
+	</main>
+<script>
+  var loc = window.location.pathname;
+  var segments = loc.split('/');
+  var breadcrumbs = '';
+  var currentPath = '/';
+  for (var i=0; i<segments.length; i++) {
+    if (segments[i] !== '') {
+      currentPath += segments[i] + '/';
+      breadcrumbs += '<a href="' +  currentPath + '">' + window.unescape(segments[i]) + '<\/a>';
+    } else if (segments.length -1 !== i) {
+      currentPath += '';
+      breadcrumbs += '<a href="' + currentPath + '">Root<\/a>';
+    }
+  }
+  document.getElementById('breadcrumbs').innerHTML = breadcrumbs;
+</script>
+<script src="/directory-listing/fancyindex.js"></script>
+<!--
+	<script>
+		function joinUntil(array, index, separator) {
+		var result = [];
+
+		for (var i = 0; i <= index; i++) {
+			result.push(array[i]);
+		}
+
+		return result.join(separator);
+		}
+
+		// Make all the icon links unfocusable with tab
+		var iconLinks = document.querySelectorAll('.indexcolicon a');
+		Array.prototype.forEach.call(iconLinks, function(link) {
+		link.setAttribute('tabindex', '-1');
+		});
+
+		var path = document.querySelector('.js-path');
+		var pathParts = location.pathname.split('/');
+
+		// Removing empty strings
+		for (var i = 0; i < pathParts.length;) {
+		if (pathParts[i]) {
+			i++;
+		} else {
+			pathParts.splice(i, 1);
+		}
+		}
+
+		var pathContents = ['<a href="/">/</a>'];
+		Array.prototype.forEach.call(pathParts, function(part, index) {
+		pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+		});
+
+		path.innerHTML = pathContents.join('&rsaquo;');
+	</script>-->
+
+	</body>
+</html>

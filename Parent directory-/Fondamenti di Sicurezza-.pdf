@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Appunti di Riccardo Azzolini</title>
+	<link rel="stylesheet" href="/directory-listing/fancyindex.css" type="text/css">
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<main>
+	<h1>Appunti di Riccardo Azzolini (@razzolini)</h1>
+	<h6><i>Hosting by Andrea Cavalli (<a href="https://t.me/cavallium/" target="_BLANK">@cavallium</a>)</i></h6>
+	<div class="box box-breadcrumbs">
+		<div class="box-header">
+			<div class="box-header-content">
+				<div id="breadcrumbs" class="breadcrumbs">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="box-content clearfix">
+			<h1 class="title"> Cartella:&nbsp;
+/Fondamenti di Sicurezza/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="2021-02-22%20Introduzione.pdf" title="2021-02-22 Introduzione.pdf">2021-02-22 Introduzione.pdf</a></td><td class="size">33.1 KiB</td><td class="date">2021-Feb-25 21:30</td></tr>
+<tr><td class="link"><a href="2021-02-25%20Crittografia.pdf" title="2021-02-25 Crittografia.pdf">2021-02-25 Crittografia.pdf</a></td><td class="size">36.6 KiB</td><td class="date">2021-Feb-25 21:30</td></tr>
+<tr><td class="link"><a href="2021-03-01%20Crittografia.pdf" title="2021-03-01 Crittografia.pdf">2021-03-01 Crittografia.pdf</a></td><td class="size">37.7 KiB</td><td class="date">2021-Jul-21 18:15</td></tr>
+<tr><td class="link"><a href="2021-03-04%20Cifratura%20simmetrica.pdf" title="2021-03-04 Cifratura simmetrica.pdf">2021-03-04 Cifratura simmetrica.pdf</a></td><td class="size">68.2 KiB</td><td class="date">2021-Mar-11 14:05</td></tr>
+<tr><td class="link"><a href="2021-03-08%20Cifratura%20polialfabetica.pdf" title="2021-03-08 Cifratura polialfabetica.pdf">2021-03-08 Cifratura polialfabetica.pdf</a></td><td class="size">108.4 KiB</td><td class="date">2021-Mar-11 14:05</td></tr>
+<tr><td class="link"><a href="2021-03-11%20Trasposizioni%20e%20schemi%20a%20pi%C3%B9%20fasi.pdf" title="2021-03-11 Trasposizioni e schemi a più fasi.pdf">2021-03-11 Trasposizioni e schemi a più fasi.pdf</a></td><td class="size">57.2 KiB</td><td class="date">2021-Aug-08 16:50</td></tr>
+<tr><td class="link"><a href="2021-03-15%20Rete%20di%20Feistel.pdf" title="2021-03-15 Rete di Feistel.pdf">2021-03-15 Rete di Feistel.pdf</a></td><td class="size">61.1 KiB</td><td class="date">2021-Mar-29 17:30</td></tr>
+<tr><td class="link"><a href="2021-03-18%20DES.pdf" title="2021-03-18 DES.pdf">2021-03-18 DES.pdf</a></td><td class="size">57.4 KiB</td><td class="date">2021-Jul-21 18:15</td></tr>
+<tr><td class="link"><a href="2021-03-22%20AES.pdf" title="2021-03-22 AES.pdf">2021-03-22 AES.pdf</a></td><td class="size">85.7 KiB</td><td class="date">2021-Jul-21 18:15</td></tr>
+<tr><td class="link"><a href="2021-03-29%20Modalit%C3%A0%20di%20funzionamento.pdf" title="2021-03-29 Modalità di funzionamento.pdf">2021-03-29 Modalità di funzionamento.pdf</a></td><td class="size">42.1 KiB</td><td class="date">2021-Apr-08 19:50</td></tr>
+<tr><td class="link"><a href="2021-04-08%20Modalit%C3%A0%20di%20funzionamento.pdf" title="2021-04-08 Modalità di funzionamento.pdf">2021-04-08 Modalità di funzionamento.pdf</a></td><td class="size">46.2 KiB</td><td class="date">2021-Apr-09 15:55</td></tr>
+<tr><td class="link"><a href="2021-04-12_1%20Modalit%C3%A0%20di%20funzionamento.pdf" title="2021-04-12_1 Modalità di funzionamento.pdf">2021-04-12_1 Modalità di funzionamento.pdf</a></td><td class="size">34.5 KiB</td><td class="date">2021-Jun-23 11:55</td></tr>
+<tr><td class="link"><a href="2021-04-12_2%20Cifratura%20asimmetrica.pdf" title="2021-04-12_2 Cifratura asimmetrica.pdf">2021-04-12_2 Cifratura asimmetrica.pdf</a></td><td class="size">47.3 KiB</td><td class="date">2021-Jun-23 11:55</td></tr>
+<tr><td class="link"><a href="2021-04-15%20RSA.pdf" title="2021-04-15 RSA.pdf">2021-04-15 RSA.pdf</a></td><td class="size">74.0 KiB</td><td class="date">2022-Apr-27 19:44</td></tr>
+<tr><td class="link"><a href="2021-04-22%20RSA.pdf" title="2021-04-22 RSA.pdf">2021-04-22 RSA.pdf</a></td><td class="size">54.1 KiB</td><td class="date">2021-Jun-25 13:15</td></tr>
+<tr><td class="link"><a href="2021-04-26%20Applicazioni%20della%20cifratura%20asimmetrica.pdf" title="2021-04-26 Applicazioni della cifratura asimmetrica.pdf">2021-04-26 Applicazioni della cifratura asimmetr..&gt;</a></td><td class="size">63.1 KiB</td><td class="date">2021-Jun-28 11:25</td></tr>
+<tr><td class="link"><a href="2021-04-29%20Gestione%20delle%20chiavi%20simmetriche.pdf" title="2021-04-29 Gestione delle chiavi simmetriche.pdf">2021-04-29 Gestione delle chiavi simmetriche.pdf</a></td><td class="size">64.4 KiB</td><td class="date">2021-Jun-29 14:20</td></tr>
+<tr><td class="link"><a href="2021-05-03%20Gestione%20delle%20chiavi%20simmetriche.pdf" title="2021-05-03 Gestione delle chiavi simmetriche.pdf">2021-05-03 Gestione delle chiavi simmetriche.pdf</a></td><td class="size">67.4 KiB</td><td class="date">2021-Jul-21 18:15</td></tr>
+<tr><td class="link"><a href="2021-05-06%20Gestione%20delle%20chiavi%20pubbliche.pdf" title="2021-05-06 Gestione delle chiavi pubbliche.pdf">2021-05-06 Gestione delle chiavi pubbliche.pdf</a></td><td class="size">64.7 KiB</td><td class="date">2021-Jul-21 18:15</td></tr>
+<tr><td class="link"><a href="2021-05-10%20IPSec.pdf" title="2021-05-10 IPSec.pdf">2021-05-10 IPSec.pdf</a></td><td class="size">40.0 KiB</td><td class="date">2021-Jul-08 19:15</td></tr>
+<tr><td class="link"><a href="2021-05-13%20IPSec.pdf" title="2021-05-13 IPSec.pdf">2021-05-13 IPSec.pdf</a></td><td class="size">52.7 KiB</td><td class="date">2021-Jul-08 19:15</td></tr>
+<tr><td class="link"><a href="2021-05-17%20IPSec.pdf" title="2021-05-17 IPSec.pdf">2021-05-17 IPSec.pdf</a></td><td class="size">45.1 KiB</td><td class="date">2021-Jul-21 18:15</td></tr>
+<tr><td class="link"><a href="2021-05-20%20TLS.pdf" title="2021-05-20 TLS.pdf">2021-05-20 TLS.pdf</a></td><td class="size">46.1 KiB</td><td class="date">2021-Jul-09 19:20</td></tr>
+<tr><td class="link"><a href="2021-05-24%20TLS.pdf" title="2021-05-24 TLS.pdf">2021-05-24 TLS.pdf</a></td><td class="size">67.6 KiB</td><td class="date">2021-Jul-09 19:20</td></tr>
+<tr><td class="link"><a href="2021-05-27_1%20Kerberos.pdf" title="2021-05-27_1 Kerberos.pdf">2021-05-27_1 Kerberos.pdf</a></td><td class="size">93.1 KiB</td><td class="date">2021-Jul-11 18:25</td></tr>
+<tr><td class="link"><a href="2021-05-27_2%20Controllo%20dell%27accesso.pdf" title="2021-05-27_2 Controllo dell'accesso.pdf">2021-05-27_2 Controllo dell'accesso.pdf</a></td><td class="size">82.3 KiB</td><td class="date">2021-Jul-11 18:30</td></tr>
+</tbody></table>			</div>
+		</div>
+	</main>
+<script>
+  var loc = window.location.pathname;
+  var segments = loc.split('/');
+  var breadcrumbs = '';
+  var currentPath = '/';
+  for (var i=0; i<segments.length; i++) {
+    if (segments[i] !== '') {
+      currentPath += segments[i] + '/';
+      breadcrumbs += '<a href="' +  currentPath + '">' + window.unescape(segments[i]) + '<\/a>';
+    } else if (segments.length -1 !== i) {
+      currentPath += '';
+      breadcrumbs += '<a href="' + currentPath + '">Root<\/a>';
+    }
+  }
+  document.getElementById('breadcrumbs').innerHTML = breadcrumbs;
+</script>
+<script src="/directory-listing/fancyindex.js"></script>
+<!--
+	<script>
+		function joinUntil(array, index, separator) {
+		var result = [];
+
+		for (var i = 0; i <= index; i++) {
+			result.push(array[i]);
+		}
+
+		return result.join(separator);
+		}
+
+		// Make all the icon links unfocusable with tab
+		var iconLinks = document.querySelectorAll('.indexcolicon a');
+		Array.prototype.forEach.call(iconLinks, function(link) {
+		link.setAttribute('tabindex', '-1');
+		});
+
+		var path = document.querySelector('.js-path');
+		var pathParts = location.pathname.split('/');
+
+		// Removing empty strings
+		for (var i = 0; i < pathParts.length;) {
+		if (pathParts[i]) {
+			i++;
+		} else {
+			pathParts.splice(i, 1);
+		}
+		}
+
+		var pathContents = ['<a href="/">/</a>'];
+		Array.prototype.forEach.call(pathParts, function(part, index) {
+		pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+		});
+
+		path.innerHTML = pathContents.join('&rsaquo;');
+	</script>-->
+
+	</body>
+</html>

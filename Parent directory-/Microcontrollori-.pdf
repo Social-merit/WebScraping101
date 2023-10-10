@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Appunti di Riccardo Azzolini</title>
+	<link rel="stylesheet" href="/directory-listing/fancyindex.css" type="text/css">
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<main>
+	<h1>Appunti di Riccardo Azzolini (@razzolini)</h1>
+	<h6><i>Hosting by Andrea Cavalli (<a href="https://t.me/cavallium/" target="_BLANK">@cavallium</a>)</i></h6>
+	<div class="box box-breadcrumbs">
+		<div class="box-header">
+			<div class="box-header-content">
+				<div id="breadcrumbs" class="breadcrumbs">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="box-content clearfix">
+			<h1 class="title"> Cartella:&nbsp;
+/Microcontrollori/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="2020-09-17%20Introduzione.pdf" title="2020-09-17 Introduzione.pdf">2020-09-17 Introduzione.pdf</a></td><td class="size">30.9 KiB</td><td class="date">2020-Sep-17 16:30</td></tr>
+<tr><td class="link"><a href="2020-09-22%20Resistenze.pdf" title="2020-09-22 Resistenze.pdf">2020-09-22 Resistenze.pdf</a></td><td class="size">58.7 KiB</td><td class="date">2020-Oct-07 14:05</td></tr>
+<tr><td class="link"><a href="2020-09-24%20Partitori%20di%20tensione.pdf" title="2020-09-24 Partitori di tensione.pdf">2020-09-24 Partitori di tensione.pdf</a></td><td class="size">32.8 KiB</td><td class="date">2020-Sep-24 19:25</td></tr>
+<tr><td class="link"><a href="2020-09-28%20Condensatori.pdf" title="2020-09-28 Condensatori.pdf">2020-09-28 Condensatori.pdf</a></td><td class="size">46.3 KiB</td><td class="date">2020-Sep-29 18:50</td></tr>
+<tr><td class="link"><a href="2020-10-01%20Condensatori.pdf" title="2020-10-01 Condensatori.pdf">2020-10-01 Condensatori.pdf</a></td><td class="size">34.7 KiB</td><td class="date">2020-Oct-01 16:40</td></tr>
+<tr><td class="link"><a href="2020-10-06%20Diodi.pdf" title="2020-10-06 Diodi.pdf">2020-10-06 Diodi.pdf</a></td><td class="size">64.9 KiB</td><td class="date">2020-Oct-09 11:15</td></tr>
+<tr><td class="link"><a href="2020-10-08%20Tipi%20di%20diodi.pdf" title="2020-10-08 Tipi di diodi.pdf">2020-10-08 Tipi di diodi.pdf</a></td><td class="size">44.9 KiB</td><td class="date">2020-Dec-16 11:25</td></tr>
+<tr><td class="link"><a href="2020-10-13%20Transistor.pdf" title="2020-10-13 Transistor.pdf">2020-10-13 Transistor.pdf</a></td><td class="size">66.1 KiB</td><td class="date">2021-Jul-21 20:05</td></tr>
+<tr><td class="link"><a href="2020-10-20%20Optoisolatori%20e%20rel%C3%A8.pdf" title="2020-10-20 Optoisolatori e relè.pdf">2020-10-20 Optoisolatori e relè.pdf</a></td><td class="size">43.5 KiB</td><td class="date">2020-Oct-23 16:25</td></tr>
+<tr><td class="link"><a href="2020-10-22_1%20Input%20digitali.pdf" title="2020-10-22_1 Input digitali.pdf">2020-10-22_1 Input digitali.pdf</a></td><td class="size">32.3 KiB</td><td class="date">2020-Dec-18 15:05</td></tr>
+<tr><td class="link"><a href="2020-10-22_2%20Arduino%20-%20Output%20digitali.pdf" title="2020-10-22_2 Arduino - Output digitali.pdf">2020-10-22_2 Arduino - Output digitali.pdf</a></td><td class="size">43.3 KiB</td><td class="date">2020-Nov-13 20:45</td></tr>
+<tr><td class="link"><a href="2020-10-27%20Arduino%20-%20Input%20digitali.pdf" title="2020-10-27 Arduino - Input digitali.pdf">2020-10-27 Arduino - Input digitali.pdf</a></td><td class="size">52.7 KiB</td><td class="date">2020-Oct-29 10:10</td></tr>
+<tr><td class="link"><a href="2020-10-29%20Segnali%20analogici.pdf" title="2020-10-29 Segnali analogici.pdf">2020-10-29 Segnali analogici.pdf</a></td><td class="size">26.5 KiB</td><td class="date">2020-Nov-04 12:45</td></tr>
+<tr><td class="link"><a href="2020-11-03%20Amplificatori%20operazionali.pdf" title="2020-11-03 Amplificatori operazionali.pdf">2020-11-03 Amplificatori operazionali.pdf</a></td><td class="size">85.2 KiB</td><td class="date">2021-Jul-21 20:05</td></tr>
+<tr><td class="link"><a href="2020-11-10%20Conversione%20analogico-digitale.pdf" title="2020-11-10 Conversione analogico-digitale.pdf">2020-11-10 Conversione analogico-digitale.pdf</a></td><td class="size">80.0 KiB</td><td class="date">2021-Feb-05 14:00</td></tr>
+<tr><td class="link"><a href="2020-11-12_1%20Arduino%20-%20IO%20analogico.pdf" title="2020-11-12_1 Arduino - IO analogico.pdf">2020-11-12_1 Arduino - IO analogico.pdf</a></td><td class="size">20.5 KiB</td><td class="date">2020-Nov-13 20:45</td></tr>
+<tr><td class="link"><a href="2020-11-12_2%20Sensori%20di%20temperatura.pdf" title="2020-11-12_2 Sensori di temperatura.pdf">2020-11-12_2 Sensori di temperatura.pdf</a></td><td class="size">44.8 KiB</td><td class="date">2021-Feb-05 14:00</td></tr>
+<tr><td class="link"><a href="2020-11-19%20Sensori%20di%20pressione%20o%20forza.pdf" title="2020-11-19 Sensori di pressione o forza.pdf">2020-11-19 Sensori di pressione o forza.pdf</a></td><td class="size">42.4 KiB</td><td class="date">2020-Nov-24 20:30</td></tr>
+<tr><td class="link"><a href="2020-11-24%20Fotoresistenze.pdf" title="2020-11-24 Fotoresistenze.pdf">2020-11-24 Fotoresistenze.pdf</a></td><td class="size">32.7 KiB</td><td class="date">2020-Nov-24 20:30</td></tr>
+<tr><td class="link"><a href="2020-11-26%20Sensori%20chimici.pdf" title="2020-11-26 Sensori chimici.pdf">2020-11-26 Sensori chimici.pdf</a></td><td class="size">15.9 KiB</td><td class="date">2020-Nov-26 20:35</td></tr>
+<tr><td class="link"><a href="2020-12-01%20Controllo%20di%20processo.pdf" title="2020-12-01 Controllo di processo.pdf">2020-12-01 Controllo di processo.pdf</a></td><td class="size">46.7 KiB</td><td class="date">2020-Dec-02 18:50</td></tr>
+<tr><td class="link"><a href="2020-12-04%20Interfacce%20seriali%20asincrone.pdf" title="2020-12-04 Interfacce seriali asincrone.pdf">2020-12-04 Interfacce seriali asincrone.pdf</a></td><td class="size">42.2 KiB</td><td class="date">2021-Feb-05 14:00</td></tr>
+<tr><td class="link"><a href="2020-12-11%20Interfacce%20seriali%20sincrone.pdf" title="2020-12-11 Interfacce seriali sincrone.pdf">2020-12-11 Interfacce seriali sincrone.pdf</a></td><td class="size">48.0 KiB</td><td class="date">2020-Dec-11 19:45</td></tr>
+<tr><td class="link"><a href="2020-12-17_1%20Interfacce%20seriali%20sincrone.pdf" title="2020-12-17_1 Interfacce seriali sincrone.pdf">2020-12-17_1 Interfacce seriali sincrone.pdf</a></td><td class="size">19.8 KiB</td><td class="date">2020-Dec-18 15:05</td></tr>
+<tr><td class="link"><a href="2020-12-17_2%20Altro.pdf" title="2020-12-17_2 Altro.pdf">2020-12-17_2 Altro.pdf</a></td><td class="size">27.4 KiB</td><td class="date">2020-Dec-18 15:05</td></tr>
+</tbody></table>			</div>
+		</div>
+	</main>
+<script>
+  var loc = window.location.pathname;
+  var segments = loc.split('/');
+  var breadcrumbs = '';
+  var currentPath = '/';
+  for (var i=0; i<segments.length; i++) {
+    if (segments[i] !== '') {
+      currentPath += segments[i] + '/';
+      breadcrumbs += '<a href="' +  currentPath + '">' + window.unescape(segments[i]) + '<\/a>';
+    } else if (segments.length -1 !== i) {
+      currentPath += '';
+      breadcrumbs += '<a href="' + currentPath + '">Root<\/a>';
+    }
+  }
+  document.getElementById('breadcrumbs').innerHTML = breadcrumbs;
+</script>
+<script src="/directory-listing/fancyindex.js"></script>
+<!--
+	<script>
+		function joinUntil(array, index, separator) {
+		var result = [];
+
+		for (var i = 0; i <= index; i++) {
+			result.push(array[i]);
+		}
+
+		return result.join(separator);
+		}
+
+		// Make all the icon links unfocusable with tab
+		var iconLinks = document.querySelectorAll('.indexcolicon a');
+		Array.prototype.forEach.call(iconLinks, function(link) {
+		link.setAttribute('tabindex', '-1');
+		});
+
+		var path = document.querySelector('.js-path');
+		var pathParts = location.pathname.split('/');
+
+		// Removing empty strings
+		for (var i = 0; i < pathParts.length;) {
+		if (pathParts[i]) {
+			i++;
+		} else {
+			pathParts.splice(i, 1);
+		}
+		}
+
+		var pathContents = ['<a href="/">/</a>'];
+		Array.prototype.forEach.call(pathParts, function(part, index) {
+		pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+		});
+
+		path.innerHTML = pathContents.join('&rsaquo;');
+	</script>-->
+
+	</body>
+</html>

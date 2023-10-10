@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Appunti di Riccardo Azzolini</title>
+	<link rel="stylesheet" href="/directory-listing/fancyindex.css" type="text/css">
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<main>
+	<h1>Appunti di Riccardo Azzolini (@razzolini)</h1>
+	<h6><i>Hosting by Andrea Cavalli (<a href="https://t.me/cavallium/" target="_BLANK">@cavallium</a>)</i></h6>
+	<div class="box box-breadcrumbs">
+		<div class="box-header">
+			<div class="box-header-content">
+				<div id="breadcrumbs" class="breadcrumbs">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="box-content clearfix">
+			<h1 class="title"> Cartella:&nbsp;
+/Basi di Dati/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="2019-09-19%20Introduzione.pdf" title="2019-09-19 Introduzione.pdf">2019-09-19 Introduzione.pdf</a></td><td class="size">34.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-24%20Modello%20relazionale.pdf" title="2019-09-24 Modello relazionale.pdf">2019-09-24 Modello relazionale.pdf</a></td><td class="size">28.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-26%20Modello%20relazionale.pdf" title="2019-09-26 Modello relazionale.pdf">2019-09-26 Modello relazionale.pdf</a></td><td class="size">57.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-03%20Comandi%20DDL%20SQL.pdf" title="2019-10-03 Comandi DDL SQL.pdf">2019-10-03 Comandi DDL SQL.pdf</a></td><td class="size">69.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-08%20Linguaggio%20di%20query.pdf" title="2019-10-08 Linguaggio di query.pdf">2019-10-08 Linguaggio di query.pdf</a></td><td class="size">49.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-10%20Join%20e%20funzioni%20di%20gruppo.pdf" title="2019-10-10 Join e funzioni di gruppo.pdf">2019-10-10 Join e funzioni di gruppo.pdf</a></td><td class="size">61.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-22%20Raggruppamento.pdf" title="2019-10-22 Raggruppamento.pdf">2019-10-22 Raggruppamento.pdf</a></td><td class="size">33.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-24_1%20Operazioni%20insiemistiche.pdf" title="2019-10-24_1 Operazioni insiemistiche.pdf">2019-10-24_1 Operazioni insiemistiche.pdf</a></td><td class="size">32.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-24_2%20Sotto-interrogazioni.pdf" title="2019-10-24_2 Sotto-interrogazioni.pdf">2019-10-24_2 Sotto-interrogazioni.pdf</a></td><td class="size">51.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-04%20Sotto-interrogazioni%20correlate.pdf" title="2019-11-04 Sotto-interrogazioni correlate.pdf">2019-11-04 Sotto-interrogazioni correlate.pdf</a></td><td class="size">41.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-05%20Comandi%20DML%20SQL.pdf" title="2019-11-05 Comandi DML SQL.pdf">2019-11-05 Comandi DML SQL.pdf</a></td><td class="size">48.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-12_1%20Vincoli%20di%20integrit%C3%A0.pdf" title="2019-11-12_1 Vincoli di integrità.pdf">2019-11-12_1 Vincoli di integrità.pdf</a></td><td class="size">47.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-12_2%20Viste.pdf" title="2019-11-12_2 Viste.pdf">2019-11-12_2 Viste.pdf</a></td><td class="size">41.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-19_1%20Progettazione.pdf" title="2019-11-19_1 Progettazione.pdf">2019-11-19_1 Progettazione.pdf</a></td><td class="size">28.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-19_2%20Modello%20ER.pdf" title="2019-11-19_2 Modello ER.pdf">2019-11-19_2 Modello ER.pdf</a></td><td class="size">53.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-25_1%20Modello%20ER.pdf" title="2019-11-25_1 Modello ER.pdf">2019-11-25_1 Modello ER.pdf</a></td><td class="size">36.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-25_2%20Progettazione%20concettuale.pdf" title="2019-11-25_2 Progettazione concettuale.pdf">2019-11-25_2 Progettazione concettuale.pdf</a></td><td class="size">37.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-26%20Progettazione%20logica.pdf" title="2019-11-26 Progettazione logica.pdf">2019-11-26 Progettazione logica.pdf</a></td><td class="size">58.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-28%20Progettazione%20logica.pdf" title="2019-11-28 Progettazione logica.pdf">2019-11-28 Progettazione logica.pdf</a></td><td class="size">62.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-29_1%20Applicazioni.pdf" title="2019-11-29_1 Applicazioni.pdf">2019-11-29_1 Applicazioni.pdf</a></td><td class="size">88.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-29_2%20Transazioni.pdf" title="2019-11-29_2 Transazioni.pdf">2019-11-29_2 Transazioni.pdf</a></td><td class="size">48.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+</tbody></table>			</div>
+		</div>
+	</main>
+<script>
+  var loc = window.location.pathname;
+  var segments = loc.split('/');
+  var breadcrumbs = '';
+  var currentPath = '/';
+  for (var i=0; i<segments.length; i++) {
+    if (segments[i] !== '') {
+      currentPath += segments[i] + '/';
+      breadcrumbs += '<a href="' +  currentPath + '">' + window.unescape(segments[i]) + '<\/a>';
+    } else if (segments.length -1 !== i) {
+      currentPath += '';
+      breadcrumbs += '<a href="' + currentPath + '">Root<\/a>';
+    }
+  }
+  document.getElementById('breadcrumbs').innerHTML = breadcrumbs;
+</script>
+<script src="/directory-listing/fancyindex.js"></script>
+<!--
+	<script>
+		function joinUntil(array, index, separator) {
+		var result = [];
+
+		for (var i = 0; i <= index; i++) {
+			result.push(array[i]);
+		}
+
+		return result.join(separator);
+		}
+
+		// Make all the icon links unfocusable with tab
+		var iconLinks = document.querySelectorAll('.indexcolicon a');
+		Array.prototype.forEach.call(iconLinks, function(link) {
+		link.setAttribute('tabindex', '-1');
+		});
+
+		var path = document.querySelector('.js-path');
+		var pathParts = location.pathname.split('/');
+
+		// Removing empty strings
+		for (var i = 0; i < pathParts.length;) {
+		if (pathParts[i]) {
+			i++;
+		} else {
+			pathParts.splice(i, 1);
+		}
+		}
+
+		var pathContents = ['<a href="/">/</a>'];
+		Array.prototype.forEach.call(pathParts, function(part, index) {
+		pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+		});
+
+		path.innerHTML = pathContents.join('&rsaquo;');
+	</script>-->
+
+	</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Appunti di Riccardo Azzolini</title>
+	<link rel="stylesheet" href="/directory-listing/fancyindex.css" type="text/css">
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<main>
+	<h1>Appunti di Riccardo Azzolini (@razzolini)</h1>
+	<h6><i>Hosting by Andrea Cavalli (<a href="https://t.me/cavallium/" target="_BLANK">@cavallium</a>)</i></h6>
+	<div class="box box-breadcrumbs">
+		<div class="box-header">
+			<div class="box-header-content">
+				<div id="breadcrumbs" class="breadcrumbs">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="box-content clearfix">
+			<h1 class="title"> Cartella:&nbsp;
+/Programmazione/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="2018-09-21%20Concetti%20di%20base.pdf" title="2018-09-21 Concetti di base.pdf">2018-09-21 Concetti di base.pdf</a></td><td class="size">31.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-09-25%20Programmazione%20strutturata.pdf" title="2018-09-25 Programmazione strutturata.pdf">2018-09-25 Programmazione strutturata.pdf</a></td><td class="size">24.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-09-28%20Iterazione%2C%20variabili%20e%20grammatiche.pdf" title="2018-09-28 Iterazione, variabili e grammatiche.pdf">2018-09-28 Iterazione, variabili e grammatiche.pdf</a></td><td class="size">39.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-02%20Programmazione%20a%20oggetti.pdf" title="2018-10-02 Programmazione a oggetti.pdf">2018-10-02 Programmazione a oggetti.pdf</a></td><td class="size">29.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-05%20Uso%20di%20classi%20e%20metodi.pdf" title="2018-10-05 Uso di classi e metodi.pdf">2018-10-05 Uso di classi e metodi.pdf</a></td><td class="size">53.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-09%20Tipi%2C%20variabili%20e%20metodi%20statici.pdf" title="2018-10-09 Tipi, variabili e metodi statici.pdf">2018-10-09 Tipi, variabili e metodi statici.pdf</a></td><td class="size">37.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-12%20Strutture%20di%20controllo%20e%20tipo%20boolean.pdf" title="2018-10-12 Strutture di controllo e tipo boolean.pdf">2018-10-12 Strutture di controllo e tipo boolean..&gt;</a></td><td class="size">35.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-16%20Cicli%20ed%20espressioni.pdf" title="2018-10-16 Cicli ed espressioni.pdf">2018-10-16 Cicli ed espressioni.pdf</a></td><td class="size">38.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-19%20Espressioni%20e%20tipi%20numerici%20interi.pdf" title="2018-10-19 Espressioni e tipi numerici interi.pdf">2018-10-19 Espressioni e tipi numerici interi.pdf</a></td><td class="size">45.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-23%20Conversioni%20e%20tipi%20in%20virgola%20mobile.pdf" title="2018-10-23 Conversioni e tipi in virgola mobile.pdf">2018-10-23 Conversioni e tipi in virgola mobile...&gt;</a></td><td class="size">56.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-26%20Caratteri%2C%20classi%20involucro%20e%20tipi%20enumerativi.pdf" title="2018-10-26 Caratteri, classi involucro e tipi enumerativi.pdf">2018-10-26 Caratteri, classi involucro e tipi en..&gt;</a></td><td class="size">44.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-10-30%20Array.pdf" title="2018-10-30 Array.pdf">2018-10-30 Array.pdf</a></td><td class="size">37.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-06%20Array%20e%20metodi.pdf" title="2018-11-06 Array e metodi.pdf">2018-11-06 Array e metodi.pdf</a></td><td class="size">42.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-09%20Sequenza%20e%20SequenzaOrdinata.pdf" title="2018-11-09 Sequenza e SequenzaOrdinata.pdf">2018-11-09 Sequenza e SequenzaOrdinata.pdf</a></td><td class="size">37.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-13%20Gerarchia.pdf" title="2018-11-13 Gerarchia.pdf">2018-11-13 Gerarchia.pdf</a></td><td class="size">40.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-16%20instanceof%2C%20cast%2C%20classi%20astratte%20e%20interfacce.pdf" title="2018-11-16 instanceof, cast, classi astratte e interfacce.pdf">2018-11-16 instanceof, cast, classi astratte e i..&gt;</a></td><td class="size">43.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-20%20Riassunto%20della%20gerarchia%20dei%20tipi.pdf" title="2018-11-20 Riassunto della gerarchia dei tipi.pdf">2018-11-20 Riassunto della gerarchia dei tipi.pdf</a></td><td class="size">23.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-23_1%20Eccezioni.pdf" title="2018-11-23_1 Eccezioni.pdf">2018-11-23_1 Eccezioni.pdf</a></td><td class="size">35.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-23_2%20Implementazione%20delle%20classi.pdf" title="2018-11-23_2 Implementazione delle classi.pdf">2018-11-23_2 Implementazione delle classi.pdf</a></td><td class="size">59.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-27%20Struttura%20delle%20classi.pdf" title="2018-11-27 Struttura delle classi.pdf">2018-11-27 Struttura delle classi.pdf</a></td><td class="size">28.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-30_1%20Package.pdf" title="2018-11-30_1 Package.pdf">2018-11-30_1 Package.pdf</a></td><td class="size">27.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-11-30_2%20Estensione%20delle%20classi.pdf" title="2018-11-30_2 Estensione delle classi.pdf">2018-11-30_2 Estensione delle classi.pdf</a></td><td class="size">26.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-12-04%20Overloading%20e%20overriding.pdf" title="2018-12-04 Overloading e overriding.pdf">2018-12-04 Overloading e overriding.pdf</a></td><td class="size">26.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-12-07%20equals%2C%20adombramento%2C%20final%20ed%20estensione%20di%20eccezioni.pdf" title="2018-12-07 equals, adombramento, final ed estensione di eccezioni.pdf">2018-12-07 equals, adombramento, final ed estens..&gt;</a></td><td class="size">45.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-12-11%20Strutture%20dati%20dinamiche.pdf" title="2018-12-11 Strutture dati dinamiche.pdf">2018-12-11 Strutture dati dinamiche.pdf</a></td><td class="size">40.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2018-12-14%20Organizzazione%20della%20memoria%20e%20ricorsione.pdf" title="2018-12-14 Organizzazione della memoria e ricorsione.pdf">2018-12-14 Organizzazione della memoria e ricors..&gt;</a></td><td class="size">33.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="Stream.pdf" title="Stream.pdf">Stream.pdf</a></td><td class="size">52.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+</tbody></table>			</div>
+		</div>
+	</main>
+<script>
+  var loc = window.location.pathname;
+  var segments = loc.split('/');
+  var breadcrumbs = '';
+  var currentPath = '/';
+  for (var i=0; i<segments.length; i++) {
+    if (segments[i] !== '') {
+      currentPath += segments[i] + '/';
+      breadcrumbs += '<a href="' +  currentPath + '">' + window.unescape(segments[i]) + '<\/a>';
+    } else if (segments.length -1 !== i) {
+      currentPath += '';
+      breadcrumbs += '<a href="' + currentPath + '">Root<\/a>';
+    }
+  }
+  document.getElementById('breadcrumbs').innerHTML = breadcrumbs;
+</script>
+<script src="/directory-listing/fancyindex.js"></script>
+<!--
+	<script>
+		function joinUntil(array, index, separator) {
+		var result = [];
+
+		for (var i = 0; i <= index; i++) {
+			result.push(array[i]);
+		}
+
+		return result.join(separator);
+		}
+
+		// Make all the icon links unfocusable with tab
+		var iconLinks = document.querySelectorAll('.indexcolicon a');
+		Array.prototype.forEach.call(iconLinks, function(link) {
+		link.setAttribute('tabindex', '-1');
+		});
+
+		var path = document.querySelector('.js-path');
+		var pathParts = location.pathname.split('/');
+
+		// Removing empty strings
+		for (var i = 0; i < pathParts.length;) {
+		if (pathParts[i]) {
+			i++;
+		} else {
+			pathParts.splice(i, 1);
+		}
+		}
+
+		var pathContents = ['<a href="/">/</a>'];
+		Array.prototype.forEach.call(pathParts, function(part, index) {
+		pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+		});
+
+		path.innerHTML = pathContents.join('&rsaquo;');
+	</script>-->
+
+	</body>
+</html>

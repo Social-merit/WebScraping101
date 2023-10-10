@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Appunti di Riccardo Azzolini</title>
+	<link rel="stylesheet" href="/directory-listing/fancyindex.css" type="text/css">
+	<meta charset="UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<main>
+	<h1>Appunti di Riccardo Azzolini (@razzolini)</h1>
+	<h6><i>Hosting by Andrea Cavalli (<a href="https://t.me/cavallium/" target="_BLANK">@cavallium</a>)</i></h6>
+	<div class="box box-breadcrumbs">
+		<div class="box-header">
+			<div class="box-header-content">
+				<div id="breadcrumbs" class="breadcrumbs">
+					<a href="#"></a>
+				</div>
+			</div>
+		</div>
+		<div class="box-content clearfix">
+			<h1 class="title"> Cartella:&nbsp;
+/Sistemi Operativi/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="2019-09-18_1%20Introduzione.pdf" title="2019-09-18_1 Introduzione.pdf">2019-09-18_1 Introduzione.pdf</a></td><td class="size">42.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-18_2%20Storia%20dei%20Sistemi%20Operativi.pdf" title="2019-09-18_2 Storia dei Sistemi Operativi.pdf">2019-09-18_2 Storia dei Sistemi Operativi.pdf</a></td><td class="size">31.4 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-19%20Storia%20dei%20Sistemi%20Operativi.pdf" title="2019-09-19 Storia dei Sistemi Operativi.pdf">2019-09-19 Storia dei Sistemi Operativi.pdf</a></td><td class="size">35.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-25_1%20Storia%20dei%20Sistemi%20Operativi.pdf" title="2019-09-25_1 Storia dei Sistemi Operativi.pdf">2019-09-25_1 Storia dei Sistemi Operativi.pdf</a></td><td class="size">27.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-25_2%20CPU%20e%20interrupt.pdf" title="2019-09-25_2 CPU e interrupt.pdf">2019-09-25_2 CPU e interrupt.pdf</a></td><td class="size">49.1 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-09-26%20Interrupt.pdf" title="2019-09-26 Interrupt.pdf">2019-09-26 Interrupt.pdf</a></td><td class="size">29.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-02_1%20Gestione%20dell%27IO.pdf" title="2019-10-02_1 Gestione dell'IO.pdf">2019-10-02_1 Gestione dell'IO.pdf</a></td><td class="size">44.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-02_2%20Program%20interrupt.pdf" title="2019-10-02_2 Program interrupt.pdf">2019-10-02_2 Program interrupt.pdf</a></td><td class="size">53.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-03%20Memory%20layout%20dei%20programmi.pdf" title="2019-10-03 Memory layout dei programmi.pdf">2019-10-03 Memory layout dei programmi.pdf</a></td><td class="size">52.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-09%20Processi.pdf" title="2019-10-09 Processi.pdf">2019-10-09 Processi.pdf</a></td><td class="size">38.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-10%20Processi.pdf" title="2019-10-10 Processi.pdf">2019-10-10 Processi.pdf</a></td><td class="size">46.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-16%20Context%20switch.pdf" title="2019-10-16 Context switch.pdf">2019-10-16 Context switch.pdf</a></td><td class="size">66.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-17%20Creazione%20dei%20processi.pdf" title="2019-10-17 Creazione dei processi.pdf">2019-10-17 Creazione dei processi.pdf</a></td><td class="size">37.9 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-23%20Processi.pdf" title="2019-10-23 Processi.pdf">2019-10-23 Processi.pdf</a></td><td class="size">40.8 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-24%20Thread.pdf" title="2019-10-24 Thread.pdf">2019-10-24 Thread.pdf</a></td><td class="size">63.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-30%20Sincronizzazione.pdf" title="2019-10-30 Sincronizzazione.pdf">2019-10-30 Sincronizzazione.pdf</a></td><td class="size">73.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-10-31%20Sincronizzazione.pdf" title="2019-10-31 Sincronizzazione.pdf">2019-10-31 Sincronizzazione.pdf</a></td><td class="size">42.2 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-06%20Sincronizzazione.pdf" title="2019-11-06 Sincronizzazione.pdf">2019-11-06 Sincronizzazione.pdf</a></td><td class="size">59.6 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-07%20Sincronizzazione.pdf" title="2019-11-07 Sincronizzazione.pdf">2019-11-07 Sincronizzazione.pdf</a></td><td class="size">66.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-14%20Gestione%20della%20memoria.pdf" title="2019-11-14 Gestione della memoria.pdf">2019-11-14 Gestione della memoria.pdf</a></td><td class="size">62.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-20%20Implementazione%20dei%20semafori.pdf" title="2019-11-20 Implementazione dei semafori.pdf">2019-11-20 Implementazione dei semafori.pdf</a></td><td class="size">26.0 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-21%20Gestione%20della%20memoria.pdf" title="2019-11-21 Gestione della memoria.pdf">2019-11-21 Gestione della memoria.pdf</a></td><td class="size">49.5 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-11-28%20Paginazione%20e%20memoria%20virtuale.pdf" title="2019-11-28 Paginazione e memoria virtuale.pdf">2019-11-28 Paginazione e memoria virtuale.pdf</a></td><td class="size">63.3 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+<tr><td class="link"><a href="2019-12-12%20Paginazione%20e%20memoria%20virtuale.pdf" title="2019-12-12 Paginazione e memoria virtuale.pdf">2019-12-12 Paginazione e memoria virtuale.pdf</a></td><td class="size">55.7 KiB</td><td class="date">2020-Apr-09 21:52</td></tr>
+</tbody></table>			</div>
+		</div>
+	</main>
+<script>
+  var loc = window.location.pathname;
+  var segments = loc.split('/');
+  var breadcrumbs = '';
+  var currentPath = '/';
+  for (var i=0; i<segments.length; i++) {
+    if (segments[i] !== '') {
+      currentPath += segments[i] + '/';
+      breadcrumbs += '<a href="' +  currentPath + '">' + window.unescape(segments[i]) + '<\/a>';
+    } else if (segments.length -1 !== i) {
+      currentPath += '';
+      breadcrumbs += '<a href="' + currentPath + '">Root<\/a>';
+    }
+  }
+  document.getElementById('breadcrumbs').innerHTML = breadcrumbs;
+</script>
+<script src="/directory-listing/fancyindex.js"></script>
+<!--
+	<script>
+		function joinUntil(array, index, separator) {
+		var result = [];
+
+		for (var i = 0; i <= index; i++) {
+			result.push(array[i]);
+		}
+
+		return result.join(separator);
+		}
+
+		// Make all the icon links unfocusable with tab
+		var iconLinks = document.querySelectorAll('.indexcolicon a');
+		Array.prototype.forEach.call(iconLinks, function(link) {
+		link.setAttribute('tabindex', '-1');
+		});
+
+		var path = document.querySelector('.js-path');
+		var pathParts = location.pathname.split('/');
+
+		// Removing empty strings
+		for (var i = 0; i < pathParts.length;) {
+		if (pathParts[i]) {
+			i++;
+		} else {
+			pathParts.splice(i, 1);
+		}
+		}
+
+		var pathContents = ['<a href="/">/</a>'];
+		Array.prototype.forEach.call(pathParts, function(part, index) {
+		pathContents.push('<a href="/' + joinUntil(pathParts, index, '/') + '">' + decodeURI(part) + '</a>');
+		});
+
+		path.innerHTML = pathContents.join('&rsaquo;');
+	</script>-->
+
+	</body>
+</html>

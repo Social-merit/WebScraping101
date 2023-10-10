@@ -15,7 +15,7 @@ import time
 
  # ================================= Set path for chromedriver.exe  and website =================================
 
-path = './../../../../../Download/CV/chromedriver/chromedriver.exe'
+path = './../../../../../../Download/CV/chromedriver/chromedriver.exe'
 # Define the website to scrape and path where the chromedriver is located
 website = 'https://www.adamchoi.co.uk/overs/detailed'
 
@@ -54,7 +54,7 @@ dropdown.select_by_visible_text('Premier League')
 
 # //*[@id="season"]
 dropdown = Select(driver.find_element('id', 'season')) # to select the dropdown season
-dropdown.select_by_visible_text('23/24')
+dropdown.select_by_visible_text('22/23')
 
 
 time.sleep(2)
@@ -84,7 +84,7 @@ driver.quit() # to close the driver
 
 df = pd.DataFrame({'date': date, 'home_team': home_team, 'score': score, 'away_team': away_team}) # to create a DataFrame in Pandas with the data looped from the table in the website
 
-df.to_csv('EnglandPremierLeague202324Football_data.csv', index=False) # to export the DataFrame to a CSV file
+df.to_csv('EnglandPremierLeague202223Football_data.csv', index=False) # to export the DataFrame to a CSV file
 
 
 print('Dataframe created and exported to CSV') # to print a message
